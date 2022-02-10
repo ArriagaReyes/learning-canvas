@@ -1,6 +1,10 @@
-# Recycle
+# Me learning how to use canvas
 
-A base template for any web development project.
+Basically the title ^
+
+Based on my recycle template.
+
+### Running
 
 Must have node and npm installed.
 
